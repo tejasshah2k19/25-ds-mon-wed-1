@@ -1,0 +1,123 @@
+DS -> data structure --> 
+
+DS : concept  
+DSA 
+
+C C++ Java Python 
+
+PL -> 
+
+	search => logic 
+	array  => logic 
+
+	prog  => 5 data item  => search => information 
+
+	single user ->  
+
+	server live -> www.aaa.com => 
+				search : Mango 
+				output : 5KB -> 2kb
+				          1second -----> slow  
+
+	1000 User : 5000kb : 5MB
+	10000 user : 50,000 kb : 50MB
+
+	7:23 -> 10000req -> 
+	signup-->
+	login
+	home
+	add request
+	accept 
+	view profile 
+	like / comment 
+	
+
+	USERS*10*50 500MB
+	
+	SERVER 2 4 8 16 32 64 128 .. . . . .. . . . 
+	
+
+	Swiggy -> 60CR -> Amazon -> Server 
+	Facebook ->  india china
+
+	60CR ---- 30CR
+
+	facebook ->
+	6000CR 3000CR  :3000CR
+
+
+	DS: concept :  
+	1) space complexity -> memory --> server farm 
+	2) time complexity  -> cycle : iteration : instructions 
+
+	ahd baroda -> 110KM
+		      100KM
+
+		fer ---> 1
+		Maruti ->80-100 1.30
+		merc -> 100 1.05
+ 
+
+
+	big -> fail -> 
+
+	25000 -> 25CR -> crash 
+
+
+Harsh --> covid -> 1 -> age -> immu -> vac -> 90 days ->
+	
+area wise , city, state , country -> 
+
+	sola rd ->  20000 , , , -> 
+	
+	5000->user -> 90days -> hang 
+	
+	15days -> 
+	22days ->
+	60 days -> 0 case 
+
+------------------------------------------------------------------------
+
+DS -->
+	ARRAY 
+	STACK
+	QUEUE 
+	LinkedList 
+	Tree
+	Graph 
+	search 
+	sorting 
+
+	10 num -> sort -> 
+			quick 
+-------------------------------------------------------------------	
+DS -> coding -> STACK QUEUE GRAPH -> self -> time -> instruction -> customize-> 
+-------------------------------------------------------------------
+pistol -> assembl -> 
+
+-----------------------------------------------------------------------
+
+				DS 
+		Linear 				NoN Linear 
+	Array					Tree
+	Stack					Graph 
+	Queue					
+	LinkedList 
+
+	Sorting: bubble , selection , insertion , merge , quick 
+	Searching : linear , binary 
+	
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
