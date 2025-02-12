@@ -110,6 +110,118 @@ pistol -> assembl ->
 ----------------------------------------------------------------------
 
 
+Linear Data structure -> 
+							array -> 
+
+
+function ---> 
+array    --->
+
+
+
+scanArray(); 10 20 335 62 54 
+printArray();10 20 335 62 54 
+maxArray();  335 
+primeArray();-1 
+
+xxxxx()-> 
+
+
+----------------------------------------------------------------
+
+
+array ---> n number data items -> same type of data type -> continu mem allocation. 
+
+
+5 numbers -> find max 
+
+int a,b,c,d,e;
+
+int a[5];// byte -> 20 byte {5*4}
+
+int x; //byte -> 2 | 4 
+
+
+types of array ?
+one dimension -> single n time 
+two dimension -> matrix 
+3-4-5 Multidimension 
+---------------------------------------------------------------------------------------------------------------
+
+int a[500];
+num: 30 ->  
+470:W 
+---------------------------------------------------------------------------------------------------------------
+
+function -> collection of instructions , line by line , expected output 
+
+add():
+	read a
+	read b 
+	c = a+b
+	print(c)
+
+
+
+
+add() //call 
+
+
+add() //
+
+
+function -> create , use 
+
+
+returnType 	functionName	argument/parameter 
+void 		main			()
+
+
+void -> no return 
+()  -> no argument 
+
+void add(int,int);//no return , with argument 
+
+int add(int,int);//return , argument 
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+#include
+	void add();//declare
+main(){
+	add();//call 
+}
+	//define 
+	void add(){
+		//logic  
+	}
+
+
+
+#include 
+
+//declare & define
+void add(){
+
+}
+
+main(){
+	add();//call 
+}
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 
 
 
