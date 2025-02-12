@@ -33,6 +33,10 @@ void display()
     }
 }
 
+void removeItem(int position){
+    //task
+}
+
 int main()
 {
 
@@ -54,6 +58,10 @@ int main()
         case 2:
             display();
             break;
+        case 3:
+            printf("\nEnter position");
+            scanf("%d",&position);
+            removeItem(position);
         case 0:
             exit(0);
 
