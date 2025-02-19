@@ -218,6 +218,43 @@ main(){
 
 
 
+array -> insertion order --> index -> location -> 
+
+40 
+30
+20
+10
+
+40 30 20 10 
+
+stack ---> Last In First Out --> LiFo 
+
+Order History : Call History 
+WhatsApp : Gmail 
+Gallery 
+
+
+a+b-c*d => expression => stack 
+recursion ==> stack 
+circuitSwitching ==> 
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
