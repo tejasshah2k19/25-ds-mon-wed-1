@@ -297,14 +297,30 @@ time complexity of bubble sort ?
  
 
 
+23,45,67,89,87,65,43
+
+			tmp=43 
+23,43,45,65,67,87,89 
+j
 
 
+---------------------------------------------------------
+recursion --> 
 
 
+	void add(){
+
+		sub(); //nesting ---> function calling another function 
+	}
+
+	void sub(){
+
+			sub(); // function calling itself 
+			//recursion -> function calling itself 
+	}
 
 
-
-
+---------------------------------------------------------
 
 
 
