@@ -342,3 +342,71 @@ printf(" %d ", sumOfArray(a,x,x));//15
 ---------------------------------------------------------
 
 
+
+{ 
+
+int a; // 2 byte 
+int x[20];//5 :15   //25 -5 
+
+//
+//
+//
+//
+
+}
+
+stdlib.h 
+
+DMA
+	allocate :2 
+	release  :1 
+
+
+	calloc()
+	malloc()
+	realloc()
+	free() 
+
+int a;//4 byte 
+int a[20];// 4 byte 20 block  
+	
+	calloc() // ->same size n number block  
+
+	malloc() //single block -> 
+
+
+--------------------------------------------------------
+
+1. Add Student 
+2. List Student 
+3. Search 
+0. exit 
+
+
+1
+enter name and rollnum
+ram
+123
+
+
+1. Add Student 
+2. List Student 
+3. Search 
+0. exit 
+
+1
+enter name and rollnum
+ravan
+321
+
+
+1. Add Student 
+2. List Student 
+3. Search 
+0. exit 
+
+2
+ram			123	
+ravan		321 
+--------------------------------------------------------------------------
+
