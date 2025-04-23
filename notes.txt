@@ -410,3 +410,18 @@ ram			123
 ravan		321 
 --------------------------------------------------------------------------
 
+
+
+				DS 
+LinearDS			NoN Linear  
+Array				Tree
+Stack				Graph 
+Queue 
+LinkedList 
+
+
+
+Tree --> 
+
+
+
